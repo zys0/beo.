@@ -1,0 +1,96 @@
+* {
+	margin: 0px;
+}
+.container{
+	margin:0px auto;
+	width:1024px;
+}
+.head-box{
+	width:1024px;
+    height: 802px;
+	margin: 0px auto;
+	background: #192314;
+	position: relative;
+	
+}
+.son1{
+	width: 660px;
+	height:510px;
+	float: right;
+	margin:0px auto;
+    background:url("green-beosound-shape-tablet.jpg");
+    background-size:100%;
+}
+.son2{
+	line-height: 40px;
+	color: #fff; 
+	font-size:10px;
+	width:561px;
+	height: 200px;
+	position:absolute; ;
+	margin-top:220px;
+	margin-left:150px;
+}
+.word1{
+	line-height: 40px;
+	font-size:15px;
+}
+.word2{
+	line-height: 70px;
+	letter-spacing: 5px;
+	font-size:45px;
+	font-weight: 500;
+}
+.word3{
+     font-size:30px;
+     font-weight: 500;
+}
+.word4{
+	background: rgb(255,255,255,0.1);
+	line-height: 35px;
+	display:block;
+	width:300px;
+	height: 40px;
+	color:#fff;
+	font-weight:400;
+	text-align:center;
+	letter-spacing: 2px;
+	font-size:15px;
+	text-decoration: none;
+	margin-top: 10px;
+}
+.test{
+	width: 1024px;
+	height: 520px;
+    background-image:url("img-bg-1350.jpg");
+    background-position: 0 -158px;
+   	background-size:100% auto;
+   	position: relative;
+   
+}
+
+.product-all{
+	width:720px;
+	height:520px;
+	position:absolute;
+    margin-top: -48px;
+    margin-left: 15%;
+
+}
+
+.product{
+	float: left;
+	position: relative;
+	
+}
+.product h4{
+	position: absolute;
+    top:15px;
+    left:20px;
+	color: white;
+
+}
+.product img{
+	width:240px;
+	height: 350px;
+}
